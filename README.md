@@ -1,7 +1,6 @@
 # favorite_places
 
-A new Flutter project.
-
+An application select a favorite location using flutter with which there is select a location using google maps and insert photos from gallery/camera and save in local db
 ## Getting Started
 
 This project is a starting point for a Flutter application.
